@@ -1,6 +1,6 @@
 # Pipeline de Datos E-commerce y Analisis Ejecutivo (Proyecto 2026)
 
-*[🇺🇸 Read English version](README.md)*
+*[Read English version](README.md)*
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -10,9 +10,9 @@ Este proyecto presenta un ecosistema integral de análisis de datos de principio
 
 ## Impacto de Negocio y KPIs
 El análisis de la base de datos de e-commerce reveló las siguientes métricas clave de rendimiento:
-* **Total Sales:** $113 Millones USD generados.
-* **Return on Investment (ROI):** Alcanzó un **915.86%**, demostrando una eficiencia extraordinaria en el presupuesto de pauta digital ($11 Mill. Ad Spend). En este caso un ROI de 9,16 quiere decir que por cada $1 dolar que la empresa gastó en publicidad, ganaron $9.16 dolares.
-* **Top Market:** La República Federal Democrática de Nepal lidera las ventas globales, seguida de cerca por Bolivia y Argentina.
+* **Total sales:** $113 Millones USD generados.
+* **Return on Investment (abrevaido ROI):** Alcanzó un **915.86%**, demostrando una eficiencia extraordinaria en el presupuesto de pauta digital ($11 Mill. Ad Spend). En este caso un ROI de 9,16 quiere decir que por cada $1 dolar que la empresa gastó en publicidad, ganaron $9.16 dolares.
+* **Top market:** La República Federal Democrática de Nepal lidera las ventas globales, seguida de cerca por Bolivia y Argentina.
 
 ## Vista Previa del Dashboard
 *(Visualización interactiva desarrollada en Power BI)*
@@ -29,4 +29,4 @@ El proyecto está estructurado para asegurar la reproducibilidad y el modelado l
 > **[Haz click en este link para leer el Resumen Ejecutivo y Recomendaciones estrateggicas](RESUMEN_EJECUTIVO.md)**
 
 ---
-**Ingeniería de Datos y Visualización por Mariana Rodriguez Velandia**
+**Ingenieria de Datos y Visualización por Mariana Rodriguez Velandia**
