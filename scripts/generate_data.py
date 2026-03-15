@@ -41,7 +41,7 @@ for i in range(1, NUM_SALES + 1):
 df_sales = pd.DataFrame(sales)
 
 # --- INJECT INTENTIONAL NOISE (For later data cleaning) ---
-# We will make some sales have missing payment methods (NULL)
+# making up some sales have missing payment methods (NULL)
 for _ in range(100):
     idx = random.randint(0, NUM_SALES - 1)
     df_sales.at[idx, 'payment_method'] = None
